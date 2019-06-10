@@ -1,4 +1,4 @@
-update=10/06/2019 10:14:02
+update=10/06/2019 16:14:54
 version=1
 last_client=kicad
 [general]
@@ -240,6 +240,17 @@ dPairViaGap=0.25
 Name=Power
 Clearance=0.1
 TrackWidth=0.35
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/2]
+Name=RF
+Clearance=0.1
+TrackWidth=0.45
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
